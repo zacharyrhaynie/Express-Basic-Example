@@ -1,0 +1,17 @@
+{
+  "name": "testing-express",
+  "version": "1.0.0",
+  "description": "Testing Express and Mongo to reach a database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.0.10",
+    "monk": "^6.0.6",
+    "npm": "^6.1.0"
+  }
+}
